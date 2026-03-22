@@ -1,20 +1,59 @@
-# spotify
+# 🎧 Youtify - Spotify Clone (Flutter)
 
-A new Flutter project.
+Youtify is a Flutter-based music streaming application inspired by Spotify.
+It provides a clean UI and smooth user experience for browsing and playing music.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🎵 Music player UI
+* 🔍 Search functionality
+* 📂 Playlist management
+* ❤️ Favorite songs
+* 📱 Responsive design
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference. 
-# Spotify Flutter App
+## 🛠 Tech Stack
 
-A Flutter project for building a Spotify-style UI.
+* Flutter
+* Dart
+* Android Studio
+
+---
+
+## 📂 Project Structure
+
+* `lib/` → Main application code
+* `assets/` → Images, icons, music files
+* `pubspec.yaml` → Dependencies
+
+---
+
+## ▶️ How to Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📸 Screenshots
+
+(Add your app screenshots here)
+
+---
+
+## 🌟 Future Improvements
+
+* Backend integration
+* User authentication
+* Real-time streaming
+
+---
+
+## 👨‍💻 Author
+
+Srihan Narendra
